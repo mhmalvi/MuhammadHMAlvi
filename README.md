@@ -22,11 +22,11 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><b>500+</b><br><sub>Workflows Shipped</sub></td>
+<td align="center"><b>1000+</b><br><sub>Workflows Shipped</sub></td>
 <td align="center"><b>3x</b><br><sub>Client Efficiency Gain</sub></td>
 <td align="center"><b>40%</b><br><sub>Cost Reduction</sub></td>
 <td align="center"><b>12</b><br><sub>Enterprise Clients</sub></td>
-<td align="center"><b>3</b><br><sub>Global Markets</sub></td>
+<td align="center"><b>18</b><br><sub>Global Markets</sub></td>
 <td align="center"><b>15+</b><br><sub>Team Members</sub></td>
 </tr>
 </table>
@@ -383,7 +383,7 @@ Full LMS with Agora/Zoom live video, 30+ payment gateways, quiz engine, certific
 
 <br><br>
 
-**97 repos** // **500+ workflows** // **15+ microservices** // **7 LMS platforms** // **5 AI agent systems**
+**100+ repos** // **1000+ workflows** // **15+ microservices** // **7 LMS platforms** // **500+ AI agent systems**
 
 <br>
 
