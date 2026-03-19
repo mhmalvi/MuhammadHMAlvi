@@ -4,8 +4,8 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadhmalvi.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://muhammadhmalvi.com)
-[![Aethon](https://img.shields.io/badge/Aethon_Automation-aethonautomation.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aethonautomation.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadhmalvi.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadhmalvi.com)
+[![Aethon](https://img.shields.io/badge/Aethon_Automation-aethonautomation.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aethonautomation.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdhmalvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhmalvi)
 [![Email](https://img.shields.io/badge/Email-hello@aethonautomation.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@aethonautomation.com)
 
@@ -51,47 +51,80 @@
 
 ### AI & Intelligent Automation
 
-**Agents & Frameworks**<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/Crew_AI-FF6F00?style=flat-square)
+**LLMs & AI APIs**<br>
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0055FF?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square)
+![Replicate](https://img.shields.io/badge/Replicate-000?style=flat-square)
+
+**Agent Frameworks & Orchestration**<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-5B21B6?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square)
 ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square)
+![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-5A29E4?style=flat-square)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-412991?style=flat-square)
+![Tool Use](https://img.shields.io/badge/Tool_Use-00897B?style=flat-square)
+
+**ML & Deep Learning**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-5A29E4?style=flat-square)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?style=flat-square&logo=vercel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-7B1FA2?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E88E5?style=flat-square)
 
-**Vector DBs & Retrieval**<br>
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logo=pinecone&logoColor=white)
+**Vector DBs & Retrieval (RAG)**<br>
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-3B82F6?style=flat-square)
 ![Weaviate](https://img.shields.io/badge/Weaviate-23B47E?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-00897B?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00897B?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-7B1FA2?style=flat-square)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-1E88E5?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-1565C0?style=flat-square)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-00695C?style=flat-square)
 
 **Voice AI & Conversational**<br>
 ![Vapi](https://img.shields.io/badge/Vapi-000?style=flat-square)
 ![Synthflow](https://img.shields.io/badge/Synthflow-00C4B4?style=flat-square)
-![Retell](https://img.shields.io/badge/Retell-6366F1?style=flat-square)
+![Retell](https://img.shields.io/badge/Retell_AI-6366F1?style=flat-square)
 ![Relevance AI](https://img.shields.io/badge/Relevance_AI-4F46E5?style=flat-square)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000?style=flat-square)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
 ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square)
+![Play.ht](https://img.shields.io/badge/Play.ht-FF4081?style=flat-square)
+![AssemblyAI](https://img.shields.io/badge/AssemblyAI-000?style=flat-square)
 
-**Workflow Orchestration**<br>
+**Workflow & RPA**<br>
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square)
 ![IFTTT](https://img.shields.io/badge/IFTTT-000?style=flat-square&logo=ifttt&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Bull](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square)
+![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-4EAA25?style=flat-square)
+
+**Computer Vision & NLP**<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+![OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square)
+![Image Gen](https://img.shields.io/badge/DALL--E_/_Stable_Diffusion-000?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
@@ -108,31 +141,34 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
 
 **Frontend & Mobile**<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
 **Backend & Runtime**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_10-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square)
+![Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square)
+![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
 
 **Databases & Storage**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -143,19 +179,22 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-010101?style=flat-square)
 
 **DevOps & Infrastructure**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-**Enterprise, Commerce & Testing**<br>
+**Enterprise, Commerce & APIs**<br>
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
@@ -168,13 +207,23 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square)
 ![AWS SES](https://img.shields.io/badge/AWS_SES-DD344C?style=flat-square)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square)
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat-square)
+
+**Testing & Quality**<br>
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000?style=flat-square)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3f9cd6?style=flat-square)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Protocols & Standards**<br>
 ![REST](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=flat-square)
 
 </td>
 </tr>
@@ -257,26 +306,40 @@ Full LMS with Agora/Zoom live video, 30+ payment gateways, quiz engine, certific
 
 ## Journey
 
-<div align="center">
-
-```
- 2025          2022-24           2020-24            2018             2017-20
-  |               |                |                 |                 |
-  v               v                v                 v                 v
-AETHON        QUADQUE          QUADQUE           LEADS            MARKETING
-AUTOMATION    DIGITAL          TECHNOLOGIES      CORPORATION      & WEB DEV
-
-Founder &     CEO              Founder & MD      Business         Digital leads
-CEO                                              Analyst          across 6 orgs
-
-500+ AI       73% lead         Expanded to       Enterprise       SEO, SEM,
-workflows     conversion       AU, UAE, EU       requirements     branding &
-15+ team      40% cost cut     30+ staff         analysis for     client
-12 clients    2x revenue       120% intl         govt & corp      acquisition
-3 markets     growth           revenue growth    clients
-```
-
-</div>
+<table>
+<tr>
+<td align="center" width="20%">
+<h4>2025</h4>
+<b>Aethon Automation</b><br>
+<sub>Founder & CEO</sub><br><br>
+<sub>500+ AI workflows<br>15+ team members<br>12 enterprise clients<br>3 global markets</sub>
+</td>
+<td align="center" width="20%">
+<h4>2022-2024</h4>
+<b>Quadque Digital</b><br>
+<sub>CEO</sub><br><br>
+<sub>73% lead conversion<br>40% cost reduction<br>2x revenue growth<br>450+ leads/quarter</sub>
+</td>
+<td align="center" width="20%">
+<h4>2020-2024</h4>
+<b>Quadque Technologies</b><br>
+<sub>Founder & MD</sub><br><br>
+<sub>Expanded to AU, UAE, EU<br>30+ staff<br>120% intl revenue growth<br>7 major clients</sub>
+</td>
+<td align="center" width="20%">
+<h4>2018</h4>
+<b>LEADS Corporation</b><br>
+<sub>Business Analyst</sub><br><br>
+<sub>Enterprise requirements<br>5+ govt & corp clients<br>3 IT systems delivered</sub>
+</td>
+<td align="center" width="20%">
+<h4>2017-2020</h4>
+<b>Digital & Marketing</b><br>
+<sub>Leadership Roles</sub><br><br>
+<sub>ITEC, UCT, ATR, NTA<br>SEO, SEM, branding<br>Client acquisition<br>Web development</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -328,8 +391,8 @@ workflows     conversion       AU, UAE, EU       requirements     branding &
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/muhammadhmalvi.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://muhammadhmalvi.com)
-[![Aethon](https://img.shields.io/badge/aethonautomation.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aethonautomation.com)
+[![Portfolio](https://img.shields.io/badge/muhammadhmalvi.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammadhmalvi.com)
+[![Aethon](https://img.shields.io/badge/aethonautomation.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aethonautomation.com)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhmalvi)
 
 </div>
